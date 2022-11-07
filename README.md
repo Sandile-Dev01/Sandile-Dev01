@@ -1,5 +1,6 @@
 - 👋 Hi, I’m Sandile Ndimande a front-end developer
-- 👀 I’m interested in technology world as a whole
+- 👨🏽‍💻 99.95% of the time you'll find my eyes stuck on the PC screen
+- 🌍 My world? Tech World of course.
 - 🌱 I’m currently learning some back-end technologies
 - 💞️ I’m looking to collaborate on some front-end projects in order to accelerate my learning curve
 - 📫 How to reach me www.sandilendimande.com or you can follow me on IG @sandile_mcxty
