@@ -2,7 +2,7 @@
 - 👨🏽‍💻 I love coding!
 - ⚽️ I'm a huge soccer fan
 - 🌍 My community? "Stack Overflow" of course...lol
-- 🧰 My tech stack includes but not limited to : HTML, CSS, Javascript (ES6), Sass, React JS, Bootstrap, Tailwind CSS, Figma, Git & MySQL.
+- 🧰 My tech stack includes but not limited to : HTML, CSS, Javascript (ES6), Python, React JS, Sass, Bootstrap, Tailwind CSS, Figma, Git & MySQL.
 - 🌱 I’m currently learning some back-end technologies
 - 📫 Want assistance on your project? contact me here www.sandilendimande.com
 
