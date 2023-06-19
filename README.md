@@ -1,8 +1,8 @@
-- 👋 Hi, I’m Sandile Ndimande a front-end developer
+- 👋 Hi, I’m Sandile Ndimande a Front-end Software Developer
 - 👨🏽‍💻 I love coding!
 - ⚽️ I'm a huge soccer fan
 - 🌍 My community? "Stack Overflow" of course...lol
-- 🧰 My tech stack includes but not limited to : HTML, CSS, Javascript (ES6), Python, React JS, Sass, Bootstrap, Tailwind CSS, Figma, Git & MySQL.
+- 🧰 My tech stack includes but not limited to : Javascript (ES6), Python, React JS, C#, .Net & Sass.
 - 🌱 I’m currently learning some back-end technologies
 - 📫 Want assistance on your project? contact me here www.sandilendimande.com
 
