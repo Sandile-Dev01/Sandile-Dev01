@@ -2,8 +2,8 @@
 - 👨🏽‍💻 I love coding!
 - ⚽️ I'm a huge soccer fan
 - 🌍 My community? "Stack Overflow" of course...lol
-- 🧰 My tech stack includes but not limited to : Javascript (ES6), Python, React JS, C#, .Net & Sass.
-- 🌱 I’m currently learning some back-end technologies
+- 🧰 My tech stack includes but not limited to : Javascript (ES6), Python, React JS, & Sass.
+- 🌱 I’m currently learning Node JS.
 - 📫 Want assistance on your project? contact me here www.sandilendimande.com
 
 <!---
