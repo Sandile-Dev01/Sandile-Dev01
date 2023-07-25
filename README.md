@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **ndimandesandile778@gmail.com**
 
-- ⚡ Fun fact **I used chatGPT too!**
+- ⚡ Fun fact **I love coding!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
