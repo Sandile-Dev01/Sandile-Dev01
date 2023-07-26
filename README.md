@@ -1,4 +1,4 @@
-![Alt Text](header.gif)
+![Alt Text](dev01_header.gif)
 
 <h1 align="center">Hi 👋, I'm Sandile Ndimande</h1>
 <h3 align="center">A passionate software developer from South Africa</h3>
