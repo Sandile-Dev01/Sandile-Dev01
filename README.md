@@ -48,6 +48,11 @@
   <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a>
 </p>
 
+<h3 align="left">IDE:</h3>
+<p align="left">
+  <a href="https://code.visualstudio.com/docs/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-icon.svg" alt="vscode" width="40" height="40"/> </a>
+</p>
+
 <h3 align="left">Other statistics:</h3>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sandile-dev01&show_icons=true&locale=en&layout=compact" alt="sandile-dev01" /></p>
 
