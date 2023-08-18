@@ -2,16 +2,29 @@
 
 <h1 align="center">A Software Developer from South Africa</h1>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sandile-dev01&label=Profile%20views&color=0e75b6&style=flat" alt="sandile-dev01" /> </p>
 
-- 👨‍💻 All of my projects are available at: [https://www.sandilendimande.com/](https://www.sandilendimande.com/)
-
-- 📫 How to reach me: **ndimandesandile778@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://www.linkedin.com/in/sandilendimande/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sandile (mcxty) ndimande" height="30" width="40" /></a>
-<a href="https://www.youtube.com/@Sandile-Dev01/videos?sub_confirmation=1" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="sandile dev01" height="30" width="40" /></a>
+  <p align="center"> 
+  
+   <a href="https://www.sandilendimande.com/">
+    <img src="https://img.shields.io/badge/Portfolio-465149?style=for-the-badge"/>
+  </a>
+  
+  <a href="https://www.linkedin.com/in/sandilendimande/">
+    <img src="https://img.shields.io/badge/LinkedIn-465149?style=for-the-badge"/>
+  </a>
+  
+   <a href="mailto:ndimandesandile778@gmail.com">
+    <img src="https://img.shields.io/badge/Email-465149?style=for-the-badge"/>
+  </a>
+  
+   <a href="https://www.youtube.com/@Sandile-Dev01/videos?sub_confirmation=1">
+    <img src="https://img.shields.io/badge/YouTube-465149?style=for-the-badge"/>
+  </a>
+  
+   <a href="https://www.tiktok.com/@sandile_dev01">
+    <img src="https://img.shields.io/badge/TikTok-465149?style=for-the-badge"/>
+  </a>
+ 
 </p>
 
 <h3 align="left">Technologies:</h3>
