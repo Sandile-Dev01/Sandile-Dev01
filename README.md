@@ -40,8 +40,7 @@
   </a>
 </p>
 
-<h3 align="left">Other statistics:</h3>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sandile-dev01&show_icons=true&locale=en&layout=compact" alt="sandile-dev01" /></p>
+<h3 align="center">Other statistics:</h3>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sandile-dev01&show_icons=true&locale=en" alt="sandile-dev01" /></p>
+<p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sandile-dev01&show_icons=true&locale=en" alt="sandile-dev01" /></p>
 
