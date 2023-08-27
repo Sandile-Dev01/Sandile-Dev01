@@ -1,4 +1,4 @@
-![Alt Text](sandile_dev01_.gif)
+![Alt Text](Sandile_dev01.gif)
 
 <h1 align="center">A Software Developer from South Africa</h1>
 
@@ -27,7 +27,7 @@
  
 </p>
 
-<h3 align="center">Technologies:</h3>
+<h3 align="center">Technologies</h3>
 
 <p align="center">
   <a href="https://sandilendimande.com">
@@ -40,7 +40,7 @@
   </a>
 </p>
 
-<h3 align="center">Other statistics:</h3>
+<h3 align="center">Other statistics</h3>
 
 <p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sandile-dev01&show_icons=true&locale=en" alt="sandile-dev01" /></p>
 
