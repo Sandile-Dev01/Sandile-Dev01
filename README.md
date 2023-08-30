@@ -36,7 +36,7 @@
 </p>
 <p align="center">
   <a href="https://sandilendimande.com">
-    <img src="https://skillicons.dev/icons?i=html,css,bootstrap,postman,figma,git,github" />
+    <img src="https://skillicons.dev/icons?i=html,css,bootstrap,spring,figma,git,github" />
   </a>
 </p>
 
