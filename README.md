@@ -1,4 +1,4 @@
-![Alt Text](Sandile_dev.gif)
+![Alt Text](Sandile.gif)
 
 <h1 align="center">A Software Developer from South Africa</h1>
 
