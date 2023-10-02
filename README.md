@@ -5,7 +5,7 @@
 
   <p align="center"> 
   
-   <a href="https://www.sandilendimande.com/">
+   <a href="https://sandile-ndimande-7q2r3rq9m-sandile-dev01.vercel.app/">
     <img src="https://img.shields.io/badge/Portfolio-465149?style=for-the-badge"/>
   </a>
   
