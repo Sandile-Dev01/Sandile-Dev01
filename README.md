@@ -31,12 +31,12 @@
 
 <p align="center">
   <a href="https://sandilendimande.com">
-    <img src="https://skillicons.dev/icons?i=js,java,cs,python,react,vue,dotnet,firebase" />
+    <img src="https://skillicons.dev/icons?i=js,java,cs,python,react,vue,firebase" />
   </a>
 </p>
 <p align="center">
   <a href="https://sandilendimande.com">
-    <img src="https://skillicons.dev/icons?i=html,css,bootstrap,sass,figma,mysql,postman,git" />
+    <img src="https://skillicons.dev/icons?i=html,css,bootstrap,sass,mysql,git" />
   </a>
 </p>
 
